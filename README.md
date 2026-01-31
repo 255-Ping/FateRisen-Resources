@@ -30,4 +30,4 @@ You **do not need to manually install** this pack.
 This repository is intended to be hosted on GitHub and linked directly in `spawn.sk`:
 
 ```properties
-resource-pack=https://github.com/<username>/<repo>/archive/refs/heads/main.zip
+resource-pack=[https://github.com/<username>/<repo>/archive/refs/heads/main.zip](https://github.com/255-Ping/FateRPG-Resources/releases/download/Beta_0.2.1/FateRPG.Resources.0.2.1.zip)
